@@ -15,7 +15,7 @@ The skill does not publish anything. It hands drafts back for a person to post, 
 
 One sample of 1,047 original posts from a founder account with 210K followers, covering 2020–2026:
 
-- Median likes per post: 1 in 2020, 18 in 2021, 39 in 2022, 89 in 2026.
+- Median likes per post: 1 (2020), 18 (2021), 39 (2022), 63 (2023), 85.5 (2024), 64 (2025), 89 (2026).
 - A $ amount in the first line: median 133.5 likes vs 37 for other posts.
 - Posts over 280 characters: median 38–68 bookmarks vs 1–2 for shorter posts.
 - Posts with media: median 60 likes vs 33 text-only.
